@@ -8,4 +8,4 @@ Expert Lecture (Molecular Dynamics Simulations)
 
 Slides: 
 
-Notebook: 
+Notebook: https://colab.research.google.com/github/pablo-arantes/BIEN-249/blob/main/Lecture_BIEN249.ipynb
