@@ -1,2 +1,11 @@
 # BIEN-249
-Materials for the BIEN135
+
+These are the Materials For BIEN 249 class of Bioengineering course at University of California, Riverside.  
+
+This repo contains jupyter notebooks and the PDF of the lecture.  
+
+Expert Lecture (Molecular Dynamics Simulations) 
+
+Slides: 
+
+Notebook: 
